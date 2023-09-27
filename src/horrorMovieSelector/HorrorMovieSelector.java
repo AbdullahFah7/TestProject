@@ -9,7 +9,7 @@ public class HorrorMovieSelector {
 	            "Psycho",
 	            "Hereditary",
 	            "Get Out"
-				"The Purge"
+			
 	        };
 
 	        // Create a random number generator
